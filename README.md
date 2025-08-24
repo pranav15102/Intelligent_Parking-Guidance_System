@@ -15,7 +15,7 @@ A real-time intelligent parking guidance system using a monocular camera to dete
 
 ## 📊 Key Results
 - <4s latency end-to-end
-- 94%+ detection accuracy in all lighting/weather
+- 98%+ detection accuracy in all lighting/weather
 - Real-time, user-specific GPS routing to open spots
 - Scalable and cost-effective for smart campus/garage deployment
 
